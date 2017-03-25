@@ -2,7 +2,7 @@
 /**
  * Loads the WordPress environment and template.
  *
- * @package WordPress change
+ * @package WordPress change in another branch
  */
 
 if ( !isset($wp_did_header) ) {
